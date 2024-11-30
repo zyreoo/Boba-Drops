@@ -1,0 +1,42 @@
+
+.title{
+    font-family:Sixtyfour Convergence;
+    display: block;
+    text-align: center
+};
+
+h2{
+} /*i don t know why i need to put this here, but if it works don t touch it:) */
+
+
+h2{
+    font-family: "Josefin Sans", sans-serif;
+    text-align: center;
+    color: #333;
+    margin: 20px 0;
+}
+
+
+img{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:200px;
+    width: 200px;
+}
+
+p{
+    font-family: "Josefin Sans", sans-serif;
+    text-align: center;
+    color: #333;
+}
+
+.cards{
+    height: 300px;
+    width: 300px;
+    display: block;
+}
+
+.box{
+    justify-content: center;
+}
